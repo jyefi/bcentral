@@ -19,7 +19,7 @@ You can find all available data series in:
 
 https://si3.bcentral.cl/estadisticas/Principal1/Web_Services/Webservices/series.xlsx
 
-##### Disclaimer
+### Disclaimer
 This program is distributed AS IS, with no warranties.
 
 Use with care, don't abuse 
